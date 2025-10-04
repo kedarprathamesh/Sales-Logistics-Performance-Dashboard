@@ -2,6 +2,10 @@
 
 This repository contains a summary of key sales trends across product categories and regions, highlighting year-over-year performance, quarterly trends, and top-performing locations.
 
+## 📈 Dashboard
+![Sales Dashboard](https://github.com/kedarprathamesh/Sales-Logistics-Performance-Dashboard/blob/main/Sales%20%26%20Logistics%20Performance%20Snapshot.png)
+*Visual summary of sales trends and YoY performance.*
+
 ## 🏭 Machines
 - Lower year-over-year (YoY) performance observed.
 - Key affected cities: Los Angeles, Detroit, Houston, Lafayette.
